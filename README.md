@@ -1,6 +1,6 @@
 # rust-web
 
-This is the repository containing all workshop materials for _Introduction to Rust Web Programming_.
+**Must check it asap** This is the repository containing all workshop materials for _Introduction to Rust Web Programming_.
 
 ## Overview
 
